@@ -1,0 +1,195 @@
+body
+{
+    text-align: center;
+    background-color: azure;
+}
+
+
+#heading
+{
+    font-family: 'Lobster', cursive;
+    font-weight: 1000;
+    font-size: 100px;
+}
+.menu {
+    font-family: cursive;
+    position: fixed;
+    top: 0;
+    bottom; 20;
+    z-index: 10;
+    background-color: aqua;
+    width: 100%;
+}
+.links {
+    padding-left: 33pxpx;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+    display: inline;
+}
+#dormheading
+{
+   font-family: 'Pacifico', cursive;
+    font-weight: 1000;
+    font-size: 70px; 
+    color: coral;
+}
+#school-corri
+{
+    height: 300px;
+    border-style: solid;
+    border-color: deeppink;
+    border-width: 10px;
+}
+#dorminfo
+{
+  font-family: 'Ranchers', cursive;
+    font-weight: 50;
+    font-size: 30px; 
+    color: cadetblue;  
+}
+#aheading
+{
+   font-family: 'Pacifico', cursive;
+    font-weight: 1000;
+    font-size: 70px; 
+    color: magenta;
+}
+#ainfo
+{
+  font-family: 'Ranchers', cursive;
+    font-weight: 50;
+    font-size: 30px; 
+    color: cadetblue;  
+}
+#alumniinfo
+{
+  font-family: 'Ranchers', cursive;
+    font-weight: 50;
+    font-size: 30px; 
+    color: cadetblue;  
+}
+#alumnihead
+{
+   font-family: 'Pacifico', cursive;
+    font-weight: 1000;
+    font-size: 70px; 
+    color: magenta;
+}
+#whatsinfo
+{
+  font-family: 'Ranchers', cursive;
+    font-weight: 50;
+    font-size: 30px; 
+    color: cadetblue;  
+}
+#whatsheading
+{
+   font-family: 'Pacifico', cursive;
+    font-weight: 1000;
+    font-size: 70px; 
+    color: yellow;
+}
+#classinfo
+{
+  font-family: 'Ranchers', cursive;
+    font-weight: 50;
+    font-size: 30px; 
+    color: cadetblue;  
+}
+#classheading
+{
+   font-family: 'Pacifico', cursive;
+    font-weight: 1000;
+    font-size: 70px; 
+    color: greenyellow;
+}
+#alumniimg
+{
+height: 300px;
+    border-style: solid;
+    border-color: deeppink;
+    border-width: 10px;    
+}
+#rr
+{
+height: 300px;
+    border-style: solid;
+    border-color: deeppink;
+    border-width: 10px;    
+}
+#cclass
+{
+height: 300px;
+    border-style: solid;
+    border-color: deeppink;
+    border-width: 10px;    
+}
+#art
+{
+height: 300px;
+    border-style: solid;
+    border-color: deeppink;
+    border-width: 10px;    
+}
+#contact
+{
+   font-family: 'Pacifico', cursive;
+    font-weight: 1000;
+    font-size: 70px; 
+    color: orange;
+}
+#map
+{
+   height: 550px; 
+    border-style: solid;
+    border-color: cornflowerblue;
+    border-width: 10px;  
+}
+#classinffo
+{
+  font-family: 'Ranchers', cursive;
+    font-weight: 50;
+    font-size: 30px; 
+    color: yellow;  
+}
+#sportsiinfo
+{
+  font-family: 'Ranchers', cursive;
+    font-weight: 50;
+    font-size: 30px; 
+    color: yellow;  
+}
+#changehead
+{
+ font-family: 'Pacifico', cursive;
+    font-weight: 1000;
+    font-size: 70px; 
+    color: greenyellow;
+}
+.announcement
+{
+    background-color: cornflowerblue;
+}
+#achivementsID{
+    padding-bottom: 10px;
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i
+{
+    float: right;
+}
+
+.movie_text span
+{
+    color:darkorange 
+}
